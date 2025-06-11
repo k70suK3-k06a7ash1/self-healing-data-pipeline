@@ -1,0 +1,5 @@
+{
+  "name": "Automated Data Catalog & ETL",
+  "description": "An application that loads data, uses an LLM to analyze its schema and content, builds a data catalog, generates ETL processes for PGLite, and visualizes progress.",
+  "requestFramePermissions": []
+}
